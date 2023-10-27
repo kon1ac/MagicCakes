@@ -1,0 +1,14 @@
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicCakes\MagicCakes\bin\Debug\net6.0\MagicCakes.exe
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicCakes\MagicCakes\bin\Debug\net6.0\MagicCakes.deps.json
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicCakes\MagicCakes\bin\Debug\net6.0\MagicCakes.runtimeconfig.json
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicCakes\MagicCakes\bin\Debug\net6.0\MagicCakes.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicCakes\MagicCakes\bin\Debug\net6.0\MagicCakes.pdb
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicCakes\MagicCakes\obj\Debug\net6.0\MagicCakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicCakes\MagicCakes\obj\Debug\net6.0\MagicCakes.AssemblyInfoInputs.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicCakes\MagicCakes\obj\Debug\net6.0\MagicCakes.AssemblyInfo.cs
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicCakes\MagicCakes\obj\Debug\net6.0\MagicCakes.csproj.CoreCompileInputs.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicCakes\MagicCakes\obj\Debug\net6.0\MagicCakes.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicCakes\MagicCakes\obj\Debug\net6.0\refint\MagicCakes.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicCakes\MagicCakes\obj\Debug\net6.0\MagicCakes.pdb
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicCakes\MagicCakes\obj\Debug\net6.0\MagicCakes.genruntimeconfig.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicCakes\MagicCakes\obj\Debug\net6.0\ref\MagicCakes.dll
